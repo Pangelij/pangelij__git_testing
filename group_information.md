@@ -1,3 +1,3 @@
 # Group member names and information
-# Elijah Pang - pangelij
+# Elijah Pang - pangelij@msu.edu
 
