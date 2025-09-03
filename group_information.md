@@ -1,2 +1,3 @@
 # Group member names and information
-# Elijah Pang
+# Elijah Pang - pangelij
+
